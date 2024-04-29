@@ -4,7 +4,7 @@ Esta é uma implementação em C do Jogo da Vida, um autômato celular, paraleli
 
 ## Como usar
 
-1. Compile o código utilizando um compilador C compatível com OpenMP e MPI.
+1. Compile o código utilizando um compilador C compatível com OpenMP.
 2. Execute o programa fornecendo um arquivo de configuração com o tamanho do tabuleiro e o número de passos.
 3. O programa exibirá a evolução do tabuleiro em cada passo, mostrando células vivas como 'x' e células mortas como espaços.
 
